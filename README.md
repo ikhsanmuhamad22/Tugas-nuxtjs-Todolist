@@ -1,7 +1,5 @@
 # Nuxt 3 Minimal Starter
 
-Priview dari halaman https://celadon-pony-1da958.netlify.app/#.
-
 ## Setup
 
 Make sure to install the dependencies:
